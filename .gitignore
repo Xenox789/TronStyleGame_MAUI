@@ -1,0 +1,90 @@
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+.vs/
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pplicationInsights/
+
+# Platform-specific build outputs
+*.apk
+*.ap_
+*.aab
+*.ipa
+*.app
+*.dll
+*.dSYM
+*.so
+*.dylib
+*.framework
+
+# Generated files
+*.nupkg
+*.snupkg
+*.ilk
+*.meta
+*.cache
+*.pdb
+*.tmp
+*.log
+
+# IDE and tooling files
+*.vspscc
+*.vssscc
+*.pidb
+*.suo
+*.csproj.user
+*.sln.docstates
+
+# Rider-specific files
+.idea/
+*.sln.iml
+
+# Resharper files
+_ReSharper.Caches/
+
+# Backup and restore files
+*.bak
+*.swp
+*.old
+*.backup
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet packages
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Xamarin-related files (applies to MAUI as it integrates Xamarin tooling)
+*.mdb
+*.mpdb
+*.overrides
+
+# Temporary and auto-generated files
+fastlane/report.xml
+fastlane/Preview.html
+.fastlane/
+.fastlane/logs/
+
+# Exclude build-related platform-specific directories
+**/platforms/android/bin/
+**/platforms/android/gen/
+**/platforms/android/.gradle/
+**/platforms/ios/build/
